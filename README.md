@@ -3,15 +3,15 @@ Easy script for the Roblox game https://www.roblox.com/games/14571057484/UPD-Str
 Here is the Script enjoy! loadstring(game:HttpGet("https://raw.githubusercontent.com/crimeiscool/Aura-Hub-Strongman-Pull-Script/main/Aura%20Hub%20Strongman%20Pull%20Script"))()
 
 
-functions:
+functions
 
 -----Autofarm Stuff----------
 
 Autofarm Strenght
 
-Autofarm Walk
+Autofarm Walk World 1 ( World 2 and more soon )
 
-Auto Egg
+Auto Egg (soon)
 
 ----Random Stuff-----------
 
