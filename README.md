@@ -1,6 +1,6 @@
 Easy script for the Roblox game https://www.roblox.com/games/14571057484/UPD-Strongman-Pull-Simulator
 
-Here is the Script enjoy! https://raw.githubusercontent.com/crimeiscool/Aura-Hub-Strongman-Pull-Script/main/nuuchhvblg-obfuscated.txt
+Here is the Script enjoy! loadstring(game:HttpGet("https://raw.githubusercontent.com/crimeiscool/Aura-Hub-Strongman-Pull-Script/main/nuuchhvblg-obfuscated.txt"))()
 
 
 functions
