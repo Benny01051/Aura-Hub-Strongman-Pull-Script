@@ -13,7 +13,7 @@ Autofarm Walk World 1,2
 
 Auto Egg (soon)
 
-Teleport to World 1 2 more Worlds get added soon , btw you need the required World to teleport to im changing it soon to CFrame 
+Teleport to World 1, 2 more Worlds get added soon , btw you need the required World to teleport to , im changing it soon to CFrame 
 
 Give Pet (its a pet that has 20x)
 
